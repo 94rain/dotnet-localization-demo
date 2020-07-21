@@ -1,1 +1,2 @@
-# dotnet-localization-demo
+# Asp.net core localization demo
+under construction
